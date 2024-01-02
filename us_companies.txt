@@ -1,0 +1,540 @@
+3 Round Stones, Inc.	Private	Data/Technology																			
+48 Factoring Inc.	Private	Finance & Investment																			
+5PSolutions	Private	Data/Technology																			
+Abt Associates	Private	Research & Consulting																			
+Accela	Private	Governance																			
+Accenture	Public																				
+AccuWeather	Private	Environment & Weather																			
+Acxiom	Public	Data/Technology																			
+Adaptive	Private	Business & Legal Services																			
+Adobe Digital Government	Public	Data/Technology																			
+Aidin	Private	Healthcare																			
+Alarm.com	Private	Lifestyle & Consumer																			
+Allianz	Public	Finance & Investment																			
+Allied Van Lines	Private	Transportation																			
+AllState Insurance Group	Public	Insurance																			
+Alltuition	Private	Education																			
+Altova	Private	Data/Technology																			
+Amazon Web Services	Public	Data/Technology																			
+American Red Ball Movers	Private	Transportation																			
+Amida Technology Solutions	Private	Healthcare																			
+Analytica	Private Data/Technology																			
+Apextech LLC	Private	Data/Technology																			
+Appallicious	Private	Data/Technology																			
+Aquicore	Private	Energy																			
+Archimedes Inc.	Private	Healthcare																			
+AreaVibes Inc.	Private	Data/Technology																			
+Arpin Van Lines	Private	Transportation																			
+Arrive Labs	Private	Transportation																			
+ASC Partners	partnership	Business & Legal Services																			
+Asset4	Private	Finance & Investment																			
+Atlas Van Lines	Private	Transportation																			
+AtSite	Private	Research & Consulting																			
+"Aunt Bertha, Inc."	Private	Governance																			
+Aureus Sciences (*Now part of Elsevier)	Private	Scientific Research																			
+AutoGrid Systems	Private	Energy																			
+Avalara	Private	Finance & Investment																			
+Avvo	Private	Business & Legal Services																			
+Ayasdi	Private	Data/Technology																			
+Azavea	Private	Geospatial/Mapping																			
+BaleFire Global	Private	Data/Technology																			
+Barchart	Private	Data/Technology																			
+Be Informed	Private	Data/Technology																			
+Bekins	Private	Transportation																			
+Berkery Noyes MandASoft	Private	Finance & Investment																			
+Berkshire Hathaway	Public	Finance & Investment																			
+BetterLesson	Private	Education																			
+BillGuard	Private	Finance & Investment																			
+Bing	Private	Data/Technology																			
+Biovia	Public	Scientific Research																			
+BizVizz	Private	Governance																			
+BlackRock	Public	Finance & Investment																			
+Bloomberg	Private	Finance & Investment																			
+Booz Allen Hamilton	Public	Research & Consulting																			
+Boston Consulting Group	Private	Research & Consulting																			
+Boundless	Private	Geospatial/Mapping																			
+Bridgewater	Private	Finance & Investment																			
+Brightscope	Private	Finance & Investment
+BuildFax	Private	Business & Legal Services																			
+Buildingeye	Public	Housing/Real Estate																			
+BuildZoom	Private	Housing/Real Estate																			
+Business and Legal Resources	Private	Business & Legal Services																			
+Business Monitor International	Private	Business & Legal Services																			
+"Calcbench, Inc."	Private	Finance & Investment																			
+Cambridge Information Group	Private	Finance & Investment																			
+Cambridge Semantics	Private	Data/Technology																			
+CAN Capital	Private	Finance & Investment																			
+Canon	Public	Data/Technology																			
+Capital Cube	partnership	Finance & Investment																			
+Cappex	Private	Education																			
+Captricity	Private	Data/Technology																			
+CareSet Systems	Private	Data/Technology																			
+Careset.com	Private	Data/Technology																			
+CARFAX	Private	Transportation																			
+Caspio	Private	Data/Technology																			
+Castle Biosciences	Private	Scientific Research																			
+CB Insights	Private	Finance & Investment																			
+Ceiba Solutions	Private	Scientific Research																			
+Center for Responsive Politics	Nonprofit	Research & Consulting																			
+Cerner	Public	Healthcare																			
+Certara	Private	Scientific Research																			
+CGI	Public	Business & Legal Services																			
+Charles River Associates	Public	Research & Consulting																			
+Charles Schwab Corp.	Public	Finance & Investment																			
+Chemical Abstracts Service	Nonprofit	Scientific Research																			
+Child Care Desk	Private	Lifestyle & Consumer																			
+Chubb	Public	Insurance																			
+Citigroup	Public	Finance & Investment																			
+CityScan	Private	Geospatial/Mapping																			
+CitySourced	Private	Governance																			
+Civic Impulse LLC	Private	Governance																			
+Civic Insight	Private	Housing/Real Estate																			
+Civinomics	Private	Governance																			
+Civis Analytics	Private	Data/Technology																			
+Clean Power Finance	Private	Energy																			
+ClearHealthCosts	Public	Healthcare																			
+ClearStory Data	Private	Data/Technology																			
+Climate Corporation	Public	Food & Agriculture																			
+CliniCast	Private	Healthcare																			
+Cloudmade	Private	Geospatial/Mapping																			
+Cloudspyre	Private	Lifestyle & Consumer																			
+Code for America	Nonprofit	Governance																			
+Code-N	Private	Data/Technology																			
+Collective IP	Private	"Data/Technology,"																			
+"College Abacus, an ECMC initiative"	Nonprofit	Finance & Investment																			
+College Board	Nonprofit	Education																			
+Compared Care	Private	Healthcare																			
+Compendia Bioscience Life Technologies	Public	Scientific Research																			
+Compliance and Risks	Private	Business & Legal Services																			
+Computer Packages Inc	Private	Data/Technology																			
+CONNECT-DOT LLC.	Private	Lifestyle & Consumer																			
+ConnectEDU	Private	Education																			
+Connotate	Private	Data/Technology																			
+Construction Monitor LLC	Private	Housing/Real Estate																			
+Consumer Reports	Nonprofit	Lifestyle & Consumer																			
+CoolClimate	Nonprofit	Environment & Weather																			
+Copyright Clearance Center	Private	Business & Legal Services																			
+CoreLogic	Public	Housing/Real Estate																			
+CostQuest	partnership	Business & Legal Services																			
+Credit Karma	Private	Finance & Investment																			
+Credit Sesame	Private	Finance & Investment																			
+CrowdANALYTIX	Private	Data/Technology																			
+Dabo Health	Private	Healthcare																			
+DataLogix	Private	Data/Technology																			
+DataMade	Private	Governance																			
+DataMarket	Private	Data/Technology																			
+Datamyne	Private	Data/Technology																			
+DataWeave	Private	Data/Technology																			
+Deloitte	Private	Research & Consulting																			
+DemystData	Private	Finance & Investment																			
+Department of Better Technology	Private	Governance																			
+Development Seed	Private	Governance																			
+"Docket Alarm, Inc."	Public	Business & Legal Services																			
+Dow Jones & Co.	Public	Finance & Investment																			
+Dun & Bradstreet	Public	Business & Legal Services																			
+Earth Networks	Private	Environment & Weather																			
+EarthObserver App		Geospatial/Mapping																			
+Earthquake Alert!	Public (Federal-USGS)	Geospatial/Mapping																			
+Eat Shop Sleep	NA	Lifestyle & Consumer																			
+Ecodesk	Private	Business & Legal Services																			
+eInstitutional	Private	Finance & Investment																			
+Embark	Private	Transportation																			
+EMC	Public	Data/Technology																			
+"Energy Points, Inc."	Private	Energy																			
+Energy Solutions Forum	Private	Energy																			
+Enervee Corporation	Private	Energy																			
+Enigma.io	Private	Data/Technology																			
+Ensco	Public	Energy																			
+Environmental Data Resources	Private	Environment & Weather																			
+Epsilon	Public	Data/Technology																			
+Equal Pay for Women		Business & Legal Services																			
+Equifax	Public	Finance & Investment																			
+Equilar	Private	Data/Technology																			
+Ernst & Young LLP	Private	Finance & Investment																			
+eScholar LLC.	Private	Education																			
+Esri	Private	Geospatial/Mapping																			
+Estately	Private	Housing/Real Estate																			
+Everyday Health	Private	Lifestyle & Consumer																			
+Evidera	Private	Healthcare																			
+Experian	Public	Finance & Investment																			
+"Expert Health Data Programming, Inc."	Private	Healthcare																			
+Exversion	Private	Data/Technology																			
+Ez-XBRL	Private	Finance & Investment																			
+Factset	Public	Finance & Investment																			
+Factual	Private	Data/Technology																			
+Farmers	Public	Insurance																			
+FarmLogs	Private	Food & Agriculture																			
+Fastcase	Private	Business & Legal Services																			
+Fidelity Investments	Private	Finance & Investment																			
+FindTheBest.com	Private	Lifestyle & Consumer																			
+First Fuel Software	Private	Energy																			
+"FirstPoint, Inc."	Private	Business & Legal Services																			
+Fitch		Finance & Investment																			
+FlightAware	Private	Transportation																			
+FlightStats	Private	Transportation																			
+FlightView	Private	Transportation																			
+Food+Tech Connect	Private	Food & Agriculture																			
+Forrester Research	Public	Research & Consulting																			
+Foursquare	Private	Lifestyle & Consumer																			
+Fujitsu	Private	Data/Technology																			
+Funding Circle	Private	Finance & Investment																			
+FutureAdvisor	Private	Finance & Investment																			
+"Fuzion Apps, Inc."	Public	Lifestyle & Consumer																			
+Gallup	Private	Research & Consulting																			
+Galorath Incorporated	Private	Business & Legal Services																			
+Garmin	Public	Geospatial/Mapping																			
+Genability	Private	Energy																			
+GenoSpace	Private	Healthcare																			
+Geofeedia	Private	Geospatial/Mapping																			
+Geolytics	Private	Data/Technology																			
+Geoscape	Private	Lifestyle & Consumer																			
+GetRaised	Private	Finance & Investment																			
+GitHub	Private	Data/Technology																			
+Glassy Media	Private	Governance																			
+Golden Helix	Private	Scientific Research																			
+GoodGuide	Private	Lifestyle & Consumer																			
+Google Maps	Public	Geospatial/Mapping																			
+Google Public Data Explorer	Public	Data/Technology																			
+Government Transaction Services	Private	Finance & Investment																			
+Govini	Private	Governance																			
+GovTribe	Private	Governance																			
+"Govzilla, Inc."	Private	Governance																			
+gRadiant Research LLC	Private	Research & Consulting																			
+Graebel Van Lines	Private	Transportation																			
+"Graematter, Inc."	Private	Data/Technology																			
+Granicus	Private	Governance																			
+GreatSchools	Nonprofit	Education																			
+GuideStar	Nonprofit	Governance																			
+H3 Biomedicine	Private	Scientific Research																			
+Harris Corporation	Public	Environment & Weather																			
+"HDScores, Inc"	Private	Lifestyle & Consumer																			
+Headlight	Private	Data/Technology																			
+Healthgrades	Private	Healthcare																			
+Healthline	Private	Healthcare																			
+HealthMap	nonprofit + commercial spinoff	Healthcare																			
+"HealthPocket, Inc."	Private	Healthcare																			
+HelloWallet	Private	Finance & Investment																			
+HERE	Private	Geospatial/Mapping																			
+Honest Buildings	Private	Housing/Real Estate																			
+HopStop	Private	Transportation																			
+Housefax	Private	Housing/Real Estate																			
+How is My Offer	Private	Education
+IBM	Public	Data/Technology																			
+ideas42	Nonprofit	Research & Consulting																			
+iFactor Consulting	Private	Research & Consulting																			
+IFI CLAIMS Patent Services	Private	Data/Technology																			
+iMedicare	Private	Healthcare																			
+Impact Forecasting (Aon)	Public	Insurance																			
+Impaq International	Private	Research & Consulting																			
+Import.io	Private	Data/Technology																			
+IMS Health	Public	Healthcare																			
+InCadence	Private	Data/Technology																			
+indoo.rs	Private	Geospatial/Mapping																			
+InfoCommerce Group	Private	Research & Consulting																			
+Informatica	Public	Data/Technology																			
+InnoCentive	Private	Scientific Research																			
+Innography	Private	Business & Legal Services																			
+Innovest Systems	Private	Finance & Investment																			
+Inovalon	Private	Healthcare																			
+Inrix Traffic	Private	Transportation																			
+Intelius	Private	Business & Legal Services																			
+Intermap Technologies	Public	Geospatial/Mapping																			
+Investormill	Private	Finance & Investment																			
+Iodine	Private	Healthcare																			
+IPHIX	Private	Data/Technology																			
+iRecycle	Public	Environment & Weather																			
+iTriage	Public	Healthcare																			
+IVES Group Inc	Private	Data/Technology																			
+IW Financial	Private	Finance & Investment																			
+JJ Keller	Private	Business & Legal Services																			
+J.P. Morgan Chase	Public	Finance & Investment																			
+"Junar, Inc."	Private	Data/Technology																			
+Junyo	Private	Education																			
+Jurispect	Private	Business & Legal Services																			
+Kaiser Permanante	Nonprofit	Healthcare																			
+karmadata	Private	Healthcare																			
+Keychain Logistics Corp.	Private	Transportation																			
+"KidAdmit, Inc."	Private	Education																			
+Kimono Labs	Private	Data/Technology																			
+KLD Research	Private	Finance & Investment																			
+Knoema	Private	Data/Technology																			
+Knowledge Agency		Research & Consulting																			
+KPMG	Partnership	Business & Legal Services																			
+Kroll Bond Ratings Agency	Private	Finance & Investment																			
+Kyruus	Private	Healthcare																			
+Lawdragon	Private	Business & Legal Services																			
+Legal Science Partners	Private	Business & Legal Services																			
+(Leg)Cyte	Public	Governance																			
+"LegiNation, Inc."	Private	Governance																			
+LegiStorm	Private	Governance																			
+Lenddo	Private	Finance & Investment																			
+Lending Club	Private	Finance & Investment																			
+Level One Technologies	Private	Data/Technology																			
+LexisNexis	Public	Business & Legal Services																			
+Liberty Mutual Insurance Cos.	Private	Insurance																			
+Lilly Open Innovation Drug Discovery		Scientific Research																			
+Liquid Robotics	Private	Geospatial/Mapping																			
+Locavore	Private	Food & Agriculture																			
+"LOGIXDATA, LLC"	Private	Finance & Investment																			
+LoopNet	Public	Housing/Real Estate																			
+"Loqate, Inc."	Private	Geospatial/Mapping																			
+LoseIt.com	Private	Lifestyle & Consumer																			
+LOVELAND Technologies	Private	Data/Technology																			
+Lucid	Private	Energy																			
+"Lumesis, Inc."	Private	Data/Technology																			
+Mango Transit	Private	Geospatial/Mapping																			
+Mapbox	Private	Geospatial/Mapping																			
+Maponics	Private	Geospatial/Mapping																			
+MapQuest	Public	Geospatial/Mapping																			
+"Marinexplore, Inc."	Private	Geospatial/Mapping																			
+MarketSense	Private	Business & Legal Services																			
+Marlin & Associates	Private	Finance & Investment																			
+Marlin Alter and Associates		Business & Legal Services																			
+McGraw Hill Financial	Public	Finance & Investment																			
+McKinsey	Private	Research & Consulting																			
+MedWatcher	Private	Healthcare																			
+Mercaris	Private	Food & Agriculture																			
+Merrill Corp.	Private	Data/Technology																			
+Merrill Lynch	Public	Finance & Investment																			
+MetLife	Public	Insurance																			
+mHealthCoach	Private	Healthcare																			
+MicroBilt Corporation	Private	Business & Legal Services																			
+Microsoft Windows Azure Marketplace	Public	Data/Technology																			
+Mint	Public	Finance & Investment																			
+Moody	Public	Finance & Investment
+Morgan Stanley	Public	Finance & Investment																			
+"Morningstar, Inc."	Public	Finance & Investment																			
+Mozio	Private	Transportation																			
+MuckRock.com	Private	Business & Legal Services																			
+Munetrix	Partnership	Governance																			
+Municode	Private	Business & Legal Services																			
+National Van Lines	Private	Transportation																			
+Nationwide Mutual Insurance Company	Private	Insurance																			
+Nautilytics	partnership	Data/Technology																			
+Navico	Private	Geospatial/Mapping																			
+NERA Economic Consulting	Public	Research & Consulting																			
+NerdWallet	Private	Finance & Investment																			
+New Media Parents	Private	Geospatial/Mapping																			
+Next Step Living	Private	Energy																			
+NextBus	Public	Transportation																			
+nGAP Incorporated	Private	Governance																			
+Nielsen	Public	Research & Consulting																			
+Noesis	Private	Energy																			
+NonprofitMetrics	Private	Data/Technology																			
+North American Van Lines	Private	Transportation																			
+Noveda Technologies	Private	Data/Technology																			
+NuCivic	Private	Governance																			
+Numedii	Private	Scientific Research																			
+Oliver Wyman	Public	Research & Consulting																			
+OnDeck	Private	Finance & Investment																			
+OnStar	Public	Geospatial/Mapping																			
+"Ontodia, Inc"	Private	Data/Technology																			
+Onvia	Public	Governance																			
+Open Data Nation	Private	Research & Consulting																			
+OpenCounter	Permitting Assistance	Governance																			
+OpenGov	Private	Governance																			
+OpenPlans		Governance																			
+"OpportunitySpace, Inc."	Private	Housing/Real Estate																			
+Optensity	Private	Data/Technology																			
+optiGov		Governance																			
+OptumInsight	Public	Healthcare																			
+Orlin Research	Private	Data/Technology																			
+OSIsoft	Private	Data/Technology																			
+OTC Markets	Public	Finance & Investment																			
+Outline	Private	Governance																			
+Oversight Systems	Private	Business & Legal Services																			
+Overture Technologies	Private	Data/Technology																			
+Owler	Private	Business & Legal Services																			
+Palantir Technologies	Private	Data/Technology																			
+Panjiva	Private																				
+Parsons Brinckerhoff	Private	Transportation																			
+Patently-O	Private	Media																			
+PatientsLikeMe	Private	Healthcare																			
+Pave	Private	Finance & Investment																			
+Paxata	Private	Data/Technology																			
+"PayScale, Inc."	Private	Business & Legal Services																			
+PeerJ	Private	Scientific Research																			
+People Power	Private	Data/Technology																			
+Persint	Private	Finance & Investment																			
+Personal Democracy Media		Governance																			
+"Personal, Inc."	Private	Lifestyle & Consumer																			
+Personalis	Private	Scientific Research																			
+Peterson's	Public	Education																			
+PEV4me.com	Private	Energy																			
+PIXIA Corp	Private	Data/Technology																			
+PlaceILive.com	Private	Housing/Real Estate																			
+PlanetEcosystems	Private	Energy																			
+PlotWatt	Private	Energy																			
+Plus-U		Education																			
+PolicyMap	Nonprofit	Geospatial/Mapping																			
+Politify	Private	Governance																			
+Poncho App	Private	Environment & Weather																			
+POPVOX	Private	Governance																			
+Porch	Private	Housing/Real Estate																			
+PossibilityU	Private	Education																			
+PowerAdvocate	Private	Energy																			
+Practice Fusion	Private	Healthcare																			
+Predilytics	Private	Healthcare																			
+PricewaterhouseCoopers (PWC)	Private	Finance & Investment																			
+ProgrammableWeb	Public	Data/Technology																			
+Progressive Insurance Group	Public	Insurance																			
+Propeller Health	Private	Healthcare																			
+ProPublica	Nonprofit	Governance																			
+PublicEngines	Private	Governance																			
+PYA Analytics	Private	Research & Consulting																			
+"Qado Energy, Inc."	Private	Energy																			
+Quandl	Private	Data/Technology																			
+Quertle	Private	Data/Technology																			
+Quid	Private	Data/Technology																			
+R R Donnelley	Public	Business & Legal Services																			
+RAND Corporation	Nonprofit	Research & Consulting																			
+Rand McNally	Private	Geospatial/Mapping																			
+Rank and Filed	Private	Finance & Investment																			
+Ranku	sole proprietorship	Education																			
+Rapid Cycle Solutions	Private	Data/Technology																			
+realtor.com	Public	Housing/Real Estate																			
+Recargo	Private	Energy																			
+ReciPal	Private	Food & Agriculture																			
+Redfin	Private	Housing/Real Estate																			
+RedLaser	Public	Lifestyle & Consumer																			
+Reed Elsevier	Public	Business & Legal Services																			
+REI Systems	Private	Data/Technology																			
+Relationship Science	Private	Business & Legal Services																			
+Remi	Private	Governance																			
+Retroficiency	Private	Energy																			
+Revaluate	Private	"Housing/Real Estate,"																			
+Revelstone	Private	Governance																			
+Rezolve Group	Private	Education																			
+Rivet Software	Private	Finance & Investment																			
+Roadify Transit	Private	Transportation																			
+Robinson + Yu		Research & Consulting																			
+Russell Investments	Private	Finance & Investment																			
+Sage Bionetworks	Nonprofit	Scientific Research																			
+SAP	Public	Data/Technology																			
+SAS	Private	Data/Technology																			
+Scale Unlimited	Private	Data/Technology																			
+Science Exchange	Private	Scientific Research																			
+Seabourne	Private	Data/Technology																			
+SeeClickFix	Private	Governance																			
+SigFig	Private	Finance & Investment																			
+Simple Energy	Private	Energy																			
+SimpleTuition	Private	Education																			
+SlashDB	Private	Data/Technology																			
+Smart Utility Systems	Private	Energy																			
+SmartAsset	Private	Finance & Investment																			
+SmartProcure	Private	Governance																			
+Smartronix	Private	Data/Technology																			
+SnapSense	Private	Research & Consulting																			
+Social Explorer	Private	Data/Technology																			
+Social Health Insights	Private	Healthcare																			
+SocialEffort Inc	Private	Lifestyle & Consumer																			
+Socrata	Private	Data/Technology																			
+Solar Census	Private	Energy																			
+SolarList	Private	Energy																			
+Sophic Systems Alliance	Private	Scientific Research																			
+S&P Capital IQ	Private	Finance & Investment																			
+SpaceCurve	Private	Data/Technology																			
+SpeSo Health	Private	Healthcare																			
+Spikes Cavell Analytic Inc	Private	Data/Technology																			
+Splunk	Public	Data/Technology																			
+Spokeo	Private	Lifestyle & Consumer																			
+SpotCrime	Private	Governance																			
+SpotHero.com	Private	Transportation																			
+Stamen Design	Private	Geospatial/Mapping																			
+Standard and Poor's	Public	Finance & Investment																			
+State Farm Insurance	Private	Insurance																			
+Sterling Infosystems	Private	Business & Legal Services																			
+Stevens Worldwide Van Lines	Private	Transportation																			
+STILLWATER SUPERCOMPUTING INC	Private	Research & Consulting																			
+StockSmart	Private	Finance & Investment																			
+Stormpulse	Private	Environment & Weather																			
+StreamLink Software	Private	Data/Technology																			
+"StreetCred Software, Inc"	Private	Governance																			
+StreetEasy	Private	Housing/Real Estate																			
+Suddath	Private	Transportation																			
+Symcat	Private	Healthcare																			
+Synthicity	Private	Housing/Real Estate																			
+T. Rowe Price	Public	Finance & Investment																			
+Tableau Software	Public	Data/Technology																			
+TagniFi	Private	Finance & Investment																			
+Telenav	Public	Geospatial/Mapping																			
+Tendril	Private	Energy																			
+Teradata	Public	Data/Technology																			
+The Advisory Board Company	Public	Research & Consulting																			
+The Bridgespan Group	Private	Research & Consulting																			
+The DocGraph Journal	Private	Healthcare																			
+The Govtech Fund	Private	Finance & Investment																			
+The Schork Report	Private	Energy																			
+The Vanguard Group	Private	Finance & Investment																			
+Think Computer Corporation	Private	Business & Legal Services																			
+Thinknum	Private	Finance & Investment																			
+Thomson Reuters	Public	Business & Legal Services																			
+TopCoder		Data/Technology																			
+TowerData	Private	Data/Technology																			
+TransparaGov	Private	Governance																			
+TransUnion	Private	Business & Legal Services																			
+TrialTrove		Healthcare																			
+TrialX	Private	Healthcare																			
+Trintech	Private	Finance & Investment																			
+TrueCar	Private	Transportation																			
+Trulia	Public	Housing/Real Estate																			
+TrustedID	Private	Lifestyle & Consumer																			
+TuvaLabs	Private	Education																			
+Uber	Private	Transportation																			
+Unigo LLC	Private	Education																			
+United Mayflower	Private	Transportation																			
+Urban Airship	Private	Business & Legal Services																			
+"Urban Mapping, Inc"	Private	Geospatial/Mapping																			
+US Green Data	Private	Energy																			
+U.S. News Schools	Private	Education																			
+USAA Group	Private	Finance & Investment																			
+USSearch	Private	Business & Legal Services																			
+Verdafero	Private	Data/Technology																			
+Vimo	Private	Insurance																			
+"VisualDoD, LLC"	Private	Aerospace and Defense																			
+Vital Axiom | Niinja	Private	Data/Technology																			
+VitalChek	Public	Governance																			
+Vitals	Private	Healthcare																			
+Vizzuality	Private	Geospatial/Mapping																			
+Votizen	Private	Governance																			
+Walk Score	Private	Lifestyle & Consumer																			
+WaterSmart Software	Private	Environment & Weather																			
+WattzOn	Private	Energy																			
+Way Better Patents	Private	Business & Legal Services																			
+Weather Channel	Public																				
+Weather Decision Technologies	Private	Environment & Weather																			
+Weather Underground	Private	Environment & Weather																			
+WebFilings	Private	Finance & Investment																			
+Webitects	Private	Data/Technology																			
+WebMD	Public	Healthcare																			
+Weight Watchers	Public	Lifestyle & Consumer																			
+WeMakeItSafer	Private	Lifestyle & Consumer																			
+Wheaton World Wide Moving	Private	Transportation																			
+Whitby Group	Private	Research & Consulting																			
+Wolfram Research	Private	Data/Technology																			
+Wolters Kluwer	Public	Business & Legal Services																			
+Workhands		Lifestyle & Consumer																			
+Xatori	Private	Energy																			
+Xcential	Private	Governance																			
+xDayta	Private	Data/Technology																			
+Xignite	Private	Finance & Investment																			
+Yahoo	Public	Lifestyle & Consumer																			
+Zebu Compliance Solutions	Private	Healthcare																			
+Yelp	Public	Lifestyle & Consumer																			
+YourMapper	Private	Geospatial/Mapping																			
+Zillow	Public	Housing/Real Estate																			
+ZocDoc	Private	Healthcare																			
+Zonability	Private	Housing/Real Estate																			
+Zoner	Private	Housing/Real Estate																			
+Zurich Insurance (Risk Room)	Public	Insurance
+Microsoft Private	Data/Technology
+Inszoom Private	Data/Technology
+Subex Private	Data/Technology
+SAP Private	Data/Technology
+Infosys Private	Data/Technology
+Wipro Private	Data/Technology
+Cognizant Private	Data/Technology
+Tech Mahindra Private	Data/Technology
+Deloitte Private	Data/Technology
+Oracle Private	Data/Technology
+Symmetry Infotech Private	Data/Technology
